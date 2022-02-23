@@ -9,6 +9,6 @@ WMS has three categories of users
   3. Admin to look over and validate product owners to be genuine and also can view through stats.
 
 
-============================
+==================================
 This repository only contains the frontend code of WMS.
-Refer to view backend code.
+Refer https://github.com/ganips/Wholesale-Management-System-Backend to view backend code.
