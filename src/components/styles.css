@@ -1,0 +1,37 @@
+.button-home {
+  font-family: "GE Inspira Sans";
+  text-transform: uppercase;
+  color: #000;
+  border: none;
+  border-radius: 45px;
+  box-shadow: 5px 8px 5px 5px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+  margin-left: 10px;
+  width: 140px;
+  height: 45px;
+  float: right;
+  background: transparent;
+  font-weight: 800;
+  font-size: medium;
+}
+
+.button-home:hover {
+  background-color: #2172db;
+  box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+  color: #fff;
+  transform: translateY(-7px);
+}
+
+*::-webkit-scrollbar {
+  width: 5px;
+}
+
+*::-webkit-scrollbar-track {
+  background: white;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: rgb(57, 126, 230);
+}
